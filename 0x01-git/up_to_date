@@ -1,9 +1,1 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-“echo “up_to_date”
-=======
-echo “echo “up_to_date” > up_to_date” > up_to_date
->>>>>>> refs/remotes/origin/master
-=======
-echo “git pull” > up_to_date
->>>>>>> e5787ef7ecd04eaf3def502828e48bfd06f9ecba
+echo “git pull”> up_to_date 
